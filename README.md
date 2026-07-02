@@ -1,4 +1,4 @@
-#Cat&Dog Classifier
+# Cat&Dog Classifier
 
 Capstone project for Advanced Deep Learning for AI Applications course
 
