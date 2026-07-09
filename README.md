@@ -2,6 +2,8 @@
 
 Capstone project for Advanced Deep Learning for AI Applications course
 
+Video Presentation --> https://www.loom.com/share/2f4673f903e1416981ef260761be1cb3
+
 ## Overview
 
 A binary image classifier that distinguishes cats from dogs using transfer learning with ResNet18, trained on the Oxford-IIIT Pet Dataset
